@@ -24,11 +24,11 @@ Encourage users to discuss their findings, techniques, and solutions in a dedica
 
 * Hands-On Learning: Participants can gain practical experience in identifying vulnerabilities and exploiting them, helping them understand potential security risks.
 
-*Security Awareness: Users will develop a better understanding of common security vulnerabilities and the importance of secure coding practices.
+* Security Awareness: Users will develop a better understanding of common security vulnerabilities and the importance of secure coding practices.
 
-*Responsible Hacking: By emphasizing ethical behavior and legal boundaries, the project promotes responsible hacking and discourages malicious activities.
+* Responsible Hacking: By emphasizing ethical behavior and legal boundaries, the project promotes responsible hacking and discourages malicious activities.
 
-*Community Engagement: The project can foster a community of learners interested in ethical hacking and cybersecurity.
+* Community Engagement: The project can foster a community of learners interested in ethical hacking and cybersecurity.
 
 ### Note
 It's essential to stress the ethical and educational nature of this project and discourage any malicious intent or activities. Participants should be made aware of the legal implications of hacking without proper authorization.
